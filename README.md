@@ -11,7 +11,7 @@ Currently, I'm exploring **Next.js** and improving my backend skills using **Exp
 
 ### 🔥 What I'm Doing Now  
 - 🌱 Learning & exploring **Next.js**  
-- 💻 Working on a **Tourism Web App**  
+- 💻 Working on a **Learning Web App**  
 - 🚀 Enhancing UI/UX & performance in React apps  
 - 📚 Practicing **Authentication, Role-Based Dashboard, and API Integration**  
 
