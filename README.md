@@ -15,6 +15,34 @@ Currently, I'm exploring **Next.js** and improving my backend skills using **Exp
 - 🚀 Enhancing UI/UX & performance in React apps  
 - 📚 Practicing **Authentication, Role-Based Dashboard, and API Integration**  
 
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/saif-uddin-a55139335/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+
+  <a href="https://saif-uddin0-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=web" width="48"/>
+  </a>
+
+  <a href="mailto:mahirr.846@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
+
+  <a href="https://github.com/saif-uddin0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  </a>
+
+  <a href="https://facebook.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" width="48"/>
+  </a>
+</p>
+
+---
 ---
 
 ## 🛠️ Tech Stack  
@@ -59,14 +87,7 @@ Currently, I'm exploring **Next.js** and improving my backend skills using **Exp
   <img src="https://skillicons.dev/icons?i=figma" width="45"/>
 </p>
 
----
 
-## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-uddin-a55139335/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://saif-uddin0-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mahirr.846@gmail.com)
-
----
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=saif-uddin0&style=flat-square)
