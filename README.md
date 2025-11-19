@@ -25,10 +25,6 @@ Currently, I'm exploring **Next.js** and improving my backend skills using **Exp
     <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
   </a>
 
-  <a href="https://saif-uddin0-portfolio.vercel.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" width="48"/>
-  </a>
-
   <a href="mailto:mahirr.846@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
   </a>
@@ -40,6 +36,10 @@ Currently, I'm exploring **Next.js** and improving my backend skills using **Exp
   <a href="https://facebook.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" width="48"/>
   </a>
+
+  <a href="https://saif-uddin0-portfolio.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=chrome" width="48"/>
+</a>
 </p>
 
 ---
