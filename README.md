@@ -43,6 +43,11 @@ Currently exploring **Next.js** while strengthening my backend skills with **Exp
   </a>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saif-uddin0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saif-uddin0&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
+</p>
+
 ---
 
 # 🛠️ Tech Stack  
