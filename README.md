@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/main/Banner-Github.png"/>
 
-<h1 align="center">Hi 👋, I'm Mahir (Saif Uddin)</h1>
+<h1 align="center">Hi 👋, I'm Saif Uddin (Mahir)</h1>
 
-<h3 align="center">🚀 MERN Stack Developer</h3>
+<h3 align="center">A MERN Stack Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
