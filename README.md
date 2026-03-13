@@ -115,26 +115,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/saif-uddin0/saif-uddin0/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🧠 Daily Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=saif-uddin0&style=flat-square"/>
@@ -143,4 +123,4 @@
 
 ---
 
-⭐️ From [Saif-Uddin0](https://github.com/saif-uddin0)
+From [Saif-Uddin0](https://github.com/saif-uddin0)
