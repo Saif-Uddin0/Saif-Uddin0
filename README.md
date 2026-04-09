@@ -20,13 +20,16 @@ Passionate **MERN Stack Developer** who loves building **modern, scalable and re
 
 I enjoy working with the **JavaScript ecosystem** and building real-world applications.
 
-    const saif = {
-        role: "MERN Stack Developer",
-        focus: ["Next.js", "React Performance", "Full Stack Apps"],
-        currentWork: "Learning Web Application",
-        learning: ["Next.js Advanced Concepts"],
-        interests: ["UI/UX", "Clean Code", "Real-world Projects"]
-    };
+    
+    ```typescript
+const saif = {
+    location: "Dhaka, Bangladesh",
+    education: "Diploma in Computer Science @ Feni Computer Institute",
+    currentFocus: ["Next.js 14", "Node.js", "Express.js", "Backend" , "Typescript],
+    interests: ["UI/UX", "Clean Code", "Real-world Projects"],
+    funFact: "Turned curiosity into code at 20, building ever since! 🚀"
+};
+```
 
 <details>
 <summary>📌 What I'm Up To</summary>
