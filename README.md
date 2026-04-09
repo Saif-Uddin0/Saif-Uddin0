@@ -1,126 +1,69 @@
-<img src="https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/main/Banner-Github.png"/>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Saif Uddin (Mahir)</h1>
+<img src="https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/main/Banner-Github.png" width="100%" />
 
-<h3 align="center">MERN Stack Developer</h3>
+# 👨‍💻 Saif Uddin (Mahir)
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
-</p>
+### MERN Stack Developer | React & Next.js Enthusiast
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-00a8e8?style=for-the-badge)](https://saif-uddin0-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saif-uddin-a55139335/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahirr.846@gmail.com)
 
-# 👨‍💻 About Me
-
-💡 Passionate **MERN Stack Developer** who loves building **modern, scalable and responsive web applications**
-
-🚀 I enjoy working with the **JavaScript ecosystem** and building real-world applications.
-
-### 🔥 Currently
-
-- 🌱 Learning **Next.js Advanced Concepts**
-- 💻 Working on a **Learning Web Application**
-- 🔐 Practicing **Authentication & Role-Based Dashboards**
-- ⚡ Improving **React performance & UI/UX**
+</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🎯 About Me
 
-<p align="center">
+Passionate **MERN Stack Developer** focused on building **modern, scalable, and responsive web applications**.  
+I enjoy working across the full JavaScript stack and turning ideas into real-world products.
 
-<a href="https://www.linkedin.com/in/saif-uddin-a55139335/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
+```ts
+const saif = {
+    role: "MERN Stack Developer",
+    focus: ["Next.js", "React Performance", "Full Stack Apps"],
+    currentWork: "Learning Web Application",
+    learning: ["Next.js Advanced Concepts", "Authentication Systems"],
+    interests: ["UI/UX", "Clean Code", "Real-world Projects"]
+};
+<details> <summary>📌 What I'm Doing</summary>
+🌱 Learning Next.js Advanced Concepts
+💻 Building a Learning Web Application
+🔐 Practicing Authentication & Role-Based Dashboards
+⚡ Improving React Performance & UI/UX
+</details>
+💻 Technology Stack
+<div align="center">
+🎯 Core Skills
+<table> <tr> <td align="center"><img src="https://skillicons.dev/icons?i=js" width="40"/><br>JavaScript</td> <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript</td> <td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br>React</td> <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js</td> <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</td> <td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express</td> <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td> <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td> </tr> </table>
+🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,bootstrap" />
+⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+🧠 Languages
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+🛠 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> </div>
+📊 GitHub Analytics
+<div align="center"> <table> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=saif-uddin0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-uddin0&layout=compact&theme=tokyonight&hide_border=true" /> </td> </tr> </table> <img src="https://streak-stats.demolab.com?user=saif-uddin0&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=saif-uddin0&theme=tokyo-night&hide_border=true" /> </div>
+🎮 Contribution Game
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> </div>
+🤝 Connect With Me
+<div align="center">
 
-<a href="mailto:mahirr.846@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
 
-<a href="https://github.com/saif-uddin0">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
 
-<a href="https://saif-uddin0-portfolio.vercel.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="50"/>
-</a>
 
-</p>
 
----
 
-# ⚡ Tech Stack
 
-### 🧠 Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts"/>
-</p>
+</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=saif-uddin0&style=flat-square" />
 
-### 🎨 Frontend
+"Code is like humor. When you have to explain it, it's bad."
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,bootstrap"/>
-</p>
+⭐ From Saif-Uddin0
 
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
-</p>
-
-### 🛠 Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
-</p>
-
----
-
-# 📊 GitHub Dashboard
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=saif-uddin0&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"/>
-
-<img height="180" src="https://streak-stats.demolab.com?user=saif-uddin0&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=58a6ff"/>
-
-</p>
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif-uddin0&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9"/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saif-uddin0&theme=react-dark&hide_border=true&area=true"/>
-
-</p>
-
----
-
-# 🎮 Pacman Contribution Game
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saif-uddin0&style=flat-square"/>
-
-</p>
-
----
-
-From [Saif-Uddin0](https://github.com/saif-uddin0)
+</div> ```
