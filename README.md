@@ -25,7 +25,7 @@ I enjoy working with the **JavaScript ecosystem** and building real-world applic
 const saif = {
     location: "Dhaka, Bangladesh",
     education: "Diploma in Computer Science @ Feni Computer Institute",
-    currentFocus: ["Next.js 14", "Node.js", "Express.js", "Backend" , "Typescript],
+    currentFocus: ["Next.js 14", "Node.js", "Express.js", "Backend" , "Typescript"],
     interests: ["UI/UX", "Clean Code", "Real-world Projects"],
     funFact: "Turned curiosity into code at 20, building ever since! 🚀"
 };
