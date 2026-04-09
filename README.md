@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/main/Banner-Github.png" width="100%" />
+<img src="[https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/main/Banner-Github.png](https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/refs/heads/main/474866694-a43ecbd4-070a-448b-a1de-34804e2bd58c.gif)" width="100%" />
 
 # 👨‍💻 Saif Uddin (Mahir)
 
