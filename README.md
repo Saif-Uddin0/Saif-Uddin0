@@ -21,7 +21,7 @@ Passionate **MERN Stack Developer** who loves building **modern, scalable and re
 I enjoy working with the **JavaScript ecosystem** and building real-world applications.
 
     
-    ```typescript
+```typescript
 const saif = {
     location: "Dhaka, Bangladesh",
     education: "Diploma in Computer Science @ Feni Computer Institute",
