@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/main/Banner-Github.png" width="100%" />
+    
 <img src="https://github.com/user-attachments/assets/a43ecbd4-070a-448b-a1de-34804e2bd58c" alt="Banner" width="100%" />
 
 # 👨‍💻 Saif Uddin (Mahir)
@@ -142,5 +141,6 @@ I enjoy working with the **JavaScript ecosystem** and building real-world applic
 <img src="https://komarev.com/ghpvc/?username=saif-uddin0&style=flat-square"/>
 
 ⭐ From [Saif-Uddin0](https://github.com/saif-uddin0)
+<img src="https://raw.githubusercontent.com/Saif-Uddin0/Saif-Uddin0/main/Banner-Github.png" width="100%" />
 
 </div>
