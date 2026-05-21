@@ -27,7 +27,7 @@ const saif = {
     education: "Diploma in Computer Science @ Feni Computer Institute",
     currentFocus: ["Next.js 14", "Node.js", "Express.js", "Backend" , "Typescript"],
     interests: ["UI/UX", "Clean Code", "Real-world Projects"],
-    funFact: "Turned curiosity into code at 20, building ever since! 🚀"
+    funFact: "Turned curiosity into code at 20, building ever since! "
 };
 ```
 
